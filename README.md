@@ -19,21 +19,26 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
 
 ---
 
-## 🔧 Stack Tecnológica
-
-- **Linguagens:** Java (Spring Boot), Ruby (Ruby on Rails), Python, JavaScript (Node.js, Jest, React Native)
-- **Arquitetura:** Microsserviços, Monolitos Modernizados, Orquestração de Processos
-- **DevOps:** AWS, Heroku, CI/CD, Monitoramento e Observabilidade
-- **Bancos de Dados:** PostgreSQL, Redis, MongoDB
-- **Outros:** Ontologias, Web Semântica, Machine State Patterns
+## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 ---
 
 ## 📈 Diversões em Repositórios Públicos
 
-- **[code-kata-timer - PR #27](https://github.com/codecon-dev/code-kata-timer/pull/27)** — Refatoração do código para melhorar legibilidade e manutenção (PR aceito pela comunidade da Codecon).
-- **[code-kata-timer - PR #28](https://github.com/codecon-dev/code-kata-timer/pull/28)** — Implementação de novos testes automatizados utilizando **Jest** em um projeto Node.js, aumentando cobertura e robustez do código.
+- 🔹 [codecon-dev/code-kata-timer - PR #27](https://github.com/codecon-dev/code-kata-timer/pull/27)  
+  _Melhorias no TimerController: Implementação correta de FullScreen API, separação entre ações e reações, ajuste automático de botões._
 
+- 🔹 [codecon-dev/code-kata-timer - PR #28](https://github.com/codecon-dev/code-kata-timer/pull/28)  
+  _Estruturação de testes automatizados com Jest, criação de mocks (`__mocks__`) e testes unitários/integrados (`__tests__`).  
+  Integração com **GitHub Actions** para validar PRs com testes automatizados._
 ---
 
 _"Transformar equipes, arquitetar soluções, construir futuro."_ 🚀
