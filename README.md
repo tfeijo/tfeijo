@@ -22,20 +22,15 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
 
 ## 🛠️ Tech Stack
 
-### 🧩 Backend
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-732345?logo=ruby&logoColor=white)
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
