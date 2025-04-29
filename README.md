@@ -8,6 +8,7 @@
 ---
 
 ## Sobre Mim
+_"Transformar equipes, arquitetar soluções, construir futuro."_ 🚀
 
 Atuo como **líder técnico** com foco em **engenharia de software**, **bancos de dados**, **microsserviços** e **desenvolvimento de times**. Minha experiência inclui:
 
@@ -40,5 +41,3 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
   _Estruturação de testes automatizados com Jest, criação de mocks (`__mocks__`) e testes unitários/integrados (`__tests__`).  
   Integração com **GitHub Actions** para validar PRs com testes automatizados._
 ---
-
-_"Transformar equipes, arquitetar soluções, construir futuro."_ 🚀
