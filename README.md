@@ -30,7 +30,6 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### 🧪 Testes
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
