@@ -44,4 +44,39 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
 - 🔹 [codecon-dev/code-kata-timer - PR #28](https://github.com/codecon-dev/code-kata-timer/pull/28)  
   _Estruturação de testes automatizados com Jest, criação de mocks (`__mocks__`) e testes unitários/integrados (`__tests__`).  
   Integração com **GitHub Actions** para validar PRs com testes automatizados._
----
+
+### 📦 Projeto: Plataforma de Gestão de Contratos
+
+Este projeto faz parte de uma solução distribuída desenvolvida para o desafio técnico da Redix. Ele representa o backend de contratos, com arquitetura moderna, foco em desacoplamento e execução escalável.
+
+#### 🧰 Stack
+- Node.js
+- PostgreSQL (Neon)
+- Prisma ORM
+- Redis (Upstash)
+- Worker assíncrono (Railway)
+- Docker / Docker Compose
+
+#### 🔗 Repositórios:
+- [github.com/tfeijo/contatos-api-node](https://github.com/tfeijo/contatos-api-node)
+- [github.com/tfeijo/frontend-redix](https://github.com/tfeijo/frontend-redix)
+- [github.com/tfeijo/contratos-redix](https://github.com/tfeijo/contratos-redix)
+
+
+
+#### 🧱 Arquitetura - [link](https://drive.google.com/file/d/16ESgt71Q48slQeRHPZLqmPDeg5n5B_oQ/view?usp=sharing)
+- Microsserviço `contratos-api` com banco independente (`contratos-db`);
+- Worker desacoplado via Redis, processando tarefas assíncronas;
+- Totalmente conteinerizado e pronto para deploy em múltiplas clouds;
+- Comunica-se com o frontend via API REST hospedada em Render.
+
+#### 🧠 Destaques Técnicos
+- Orquestração com Redis para desacoplamento de tarefas;
+- Modularização e separação clara de responsabilidades;
+- Documentação e exemplos de `.env` para facilitar onboarding;
+- Estrutura orientada à manutenção e escalabilidade.
+
+#### 🔎 Objetivo
+Demonstrar conhecimento avançado em engenharia de software moderna, arquitetura de sistemas distribuídos e operação em ambientes multi-cloud. Projeto desenvolvido por [Thiago Feijó](https://www.linkedin.com/in/tfeijo) como parte do processo seletivo técnico da Redix.
+
+
