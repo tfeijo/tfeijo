@@ -70,13 +70,3 @@ Este projeto faz parte de uma solução distribuída desenvolvida para o desafio
 - Totalmente conteinerizado e pronto para deploy em múltiplas clouds;
 - Comunica-se com o frontend via API REST hospedada em Render.
 
-#### 🧠 Destaques Técnicos
-- Orquestração com Redis para desacoplamento de tarefas;
-- Modularização e separação clara de responsabilidades;
-- Documentação e exemplos de `.env` para facilitar onboarding;
-- Estrutura orientada à manutenção e escalabilidade.
-
-#### 🔎 Objetivo
-Demonstrar conhecimento avançado em engenharia de software moderna, arquitetura de sistemas distribuídos e operação em ambientes multi-cloud. Projeto desenvolvido por [Thiago Feijó](https://www.linkedin.com/in/tfeijo) como parte do processo seletivo técnico da Redix.
-
-
