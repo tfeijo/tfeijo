@@ -47,7 +47,7 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
 
 ### 📦 Projeto: Plataforma de Gestão de Contratos
 
-Este projeto faz parte de uma solução distribuída desenvolvida para o desafio técnico da Redix. Ele representa o backend de contratos, com arquitetura moderna, foco em desacoplamento e execução escalável.
+Este projeto faz parte de uma solução distribuída desenvolvida para o desafio técnico. Ele representa o backend de contratos, com arquitetura moderna, foco em desacoplamento e execução escalável.
 
 #### 🧰 Stack
 - Node.js
