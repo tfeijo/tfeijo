@@ -88,17 +88,3 @@ Este projeto faz parte de uma solução distribuída desenvolvida para o desafio
 - Totalmente conteinerizado e pronto para deploy em múltiplas clouds;
 - Comunica-se com o frontend via API REST hospedada em Render.
 
----
-
-### 🚀 Projeto: Relay Intelligence Platform
-
-Plataforma de inteligência em construção com arquitetura moderna e foco em escalabilidade.
-
-#### 🧰 Stack
-- NestJS 11 + Fastify 5
-- TypeScript com SWC
-- Monorepo com npm workspaces + Turborepo
-- Biome (linting/formatting)
-
-#### 🔗 Repositório:
-- [github.com/tfeijo/relay-AI-platform](https://github.com/tfeijo/relay-AI-platform)
