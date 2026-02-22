@@ -29,6 +29,9 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?logo=redis&logoColor=white)
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
