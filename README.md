@@ -52,6 +52,14 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 
+### Arquitetura & Padrões
+- Microsserviços com bancos independentes e APIs REST versionadas
+- Workers assíncronos com filas Redis
+- BFF (Backend for Frontend) com Next.js
+- Monorepos com npm workspaces e Turborepo
+- Deploy conteinerizado com Docker Compose
+- Autenticação JWT e middleware de segurança
+
 ---
 
 ## 📈 Contribuições Open Source
