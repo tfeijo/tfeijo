@@ -63,28 +63,4 @@ Valorizo a **escuta ativa**, **decisões técnicas baseadas em entendimento prof
   _Estruturação de testes automatizados com Jest, criação de mocks (`__mocks__`) e testes unitários/integrados (`__tests__`).
   Integração com **GitHub Actions** para validar PRs com testes automatizados._
 
----
-
-### 📦 Projeto: Plataforma de Gestão de Contratos
-
-Este projeto faz parte de uma solução distribuída desenvolvida para o desafio técnico. Ele representa o backend de contratos, com arquitetura moderna, foco em desacoplamento e execução escalável.
-
-#### 🧰 Stack
-- Node.js
-- PostgreSQL (Neon)
-- Prisma ORM
-- Redis (Upstash)
-- Worker assíncrono (Railway)
-- Docker / Docker Compose
-
-#### 🔗 Repositórios:
-- [github.com/tfeijo/contatos-api-node](https://github.com/tfeijo/contatos-api-node)
-- [github.com/tfeijo/frontend-redix](https://github.com/tfeijo/frontend-redix)
-- [github.com/tfeijo/contratos-redix](https://github.com/tfeijo/contratos-redix)
-
-#### 🧱 Arquitetura - [link](https://drive.google.com/file/d/16ESgt71Q48slQeRHPZLqmPDeg5n5B_oQ/view?usp=sharing)
-- Microsserviço `contratos-api` com banco independente (`contratos-db`);
-- Worker desacoplado via Redis, processando tarefas assíncronas;
-- Totalmente conteinerizado e pronto para deploy em múltiplas clouds;
-- Comunica-se com o frontend via API REST hospedada em Render.
 
